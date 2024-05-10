@@ -1,4 +1,4 @@
-from funcs import function
-
+from funcs import function, function2
 
 function()
+function2()
