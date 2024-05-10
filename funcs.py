@@ -11,6 +11,3 @@ def function2() -> int:
     print(f'{a}+{b}={a-b}')
     return
 
-
-function()
-function2()
